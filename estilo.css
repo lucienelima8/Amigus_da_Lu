@@ -1,0 +1,29 @@
+body{
+    margin: 1px;
+}
+
+
+ul, li, a {
+    gap: .6rem;
+    letter-spacing: 1px;
+    padding: 1px;
+   
+}
+
+h1 {
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.config_imagem {
+    display: flex;
+}
+
+
+
+
