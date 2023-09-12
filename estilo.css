@@ -7,11 +7,12 @@ ul, li, a {
     gap: .6rem;
     letter-spacing: 1px;
     padding: 1px;
-   
+      
 }
 
 h1 {
     text-align: center;
+    padding-top: 2rem;
 
 }
 
