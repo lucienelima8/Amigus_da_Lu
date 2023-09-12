@@ -32,9 +32,10 @@ a:hover{
 .nome_h1 {
     text-align: center;
     padding-top: 2rem;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Dancing Script', cursive;
+    /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
     color: blue;
-    font-size: 3rem;
+    font-size: 5rem;
 
 }
 
@@ -85,9 +86,9 @@ footer {
     .nome_h1 {
         text-align: center;
         padding-top: 2rem;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-family: 'Dancing Script', cursive;
         color: blue;
-        font-size: 2rem;
+        font-size: 3rem;
     
     }
     
