@@ -1,7 +1,7 @@
 .fundo{
     margin: 0;
-    background-color: rgb(212, 240, 236);
-    
+    /*background-color: rgb(212, 240, 236);*/
+    background-color: rgba(245, 222, 179, 0.753);
 }
 
 .sticky-top {
@@ -17,11 +17,12 @@ ul, li, a {
       
 }
 
-h1 {
+.nome_h1 {
     text-align: center;
     padding-top: 2rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+    color: blue;
+    font-size: 3rem;
 
 }
 
@@ -63,6 +64,22 @@ footer {
 }
 
 @media screen and (max-width: 576px) {
+    .nome_h1 {
+        text-align: center;
+        padding-top: 2rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: blue;
+        font-size: 2rem;
+    
+    }
+    
+    .parágrafo_header{
+        font-size: 1.1rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        padding-bottom: 1.2rem;
+    
+    }
+    
     .config_container {
         text-align: center;
     }
