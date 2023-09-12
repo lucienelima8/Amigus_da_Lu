@@ -1,30 +1,75 @@
-body{
-    margin: 1px;
+.fundo{
+    margin: 0;
+    background-color: rgb(212, 240, 236);
+    
+}
+
+.sticky-top {
+    background-color: #cccccca9;
 }
 
 
 ul, li, a {
-    gap: .6rem;
+    gap: 2rem;
     letter-spacing: 1px;
     padding: 1px;
+    font-weight: bold;
       
 }
 
 h1 {
     text-align: center;
     padding-top: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 
 }
+
+.parágrafo_header{
+    font-size: 1.1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 3rem;
+
+}
+
 
 p {
     text-align: center;
     padding-top: 3rem;
+    font-weight: bold;
+    color: blue;
+}
+
+.ajuste_img {
+    width: 250px; 
+    height: 200px;
+    border: 1px solid rgba(0, 0, 255, 0.404);
+
+}
+
+.ajuste_img:hover {
+    transform: scale(1.1); 
+
 }
 
 .config_imagem {
-    display: flex;
+    /*display: flex;*/
 }
 
+footer {
+    padding-top: 2rem;
+    text-align: center;
+    font-weight: bold;
+}
 
+@media screen and (max-width: 576px) {
+    .config_container {
+        text-align: center;
+    }
 
+    .ajuste_img:hover {
+        transform: none; 
+    
+    }
+}
 
