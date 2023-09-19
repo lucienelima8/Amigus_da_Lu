@@ -78,6 +78,8 @@ footer {
 
 }
 
+/*RESPONSIVIDADE PARA CELULAR*/
+
 @media screen and (max-width: 576px) {
     a:hover{
         background-color: none;
