@@ -7,6 +7,9 @@ e CSS 3.
 
 <a href="https://lucienelima8.github.io/Amigus_da_Lu/" target="_blank">Amigus da Lu</a>
 
+![amigus](https://github.com/lucienelima8/Amigus_da_Lu/assets/137119392/71c29ab5-324b-4964-8362-b69013253a04)
+
+
 <br>
 <hr>
 <b>Plágio é crime.<br>
