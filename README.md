@@ -7,8 +7,7 @@ e CSS 3.
 
 <a href="https://lucienelima8.github.io/Amigus_da_Lu/" target="_blank">Amigus da Lu</a>
 
-![amigus](https://github.com/lucienelima8/Amigus_da_Lu/assets/137119392/71c29ab5-324b-4964-8362-b69013253a04)
-
+![amigus](https://github.com/lucienelima8/Amigus_da_Lu/assets/137119392/bc6ec61e-353a-4dfb-928c-b950d1b8379f)
 
 <br>
 <hr>
