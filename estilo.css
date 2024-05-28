@@ -1,13 +1,19 @@
 .fundo{
     margin: 0;
     /*background-color: rgb(212, 240, 236);*/
-    background-color: rgba(245, 222, 179, 0.753);
+    /*background-color: rgba(245, 222, 179, 0.753);*/
+    /*background-color: azure;*/
+    background-color: rgba(218, 247, 247, 0.644);
+
+
 }
 
 .sticky-top {
     /*background-color: #cccccca9;*/
     /*background-color: color-mix(in srgb, red, white 80%);*/
-    background-color: rgba(245, 222, 179, 0.753);
+    /*background-color: rgba(245, 222, 179, 0.753);*/
+    background-color: rgb(218, 247, 247);
+
 
 }
 
@@ -17,15 +23,18 @@ ul, li, a {
     letter-spacing: 1px;
     padding: 1px;
     font-weight: bold;
+    margin-top: .4rem;
       
 }
 
 a:hover{
-    background-color: color-mix(in srgb, red, white 80%);
+    background-color: color-mix(in srgb, azure, white 80%);
 }
 
 .div_header{
-    background-color: rgba(245, 222, 179, 0.753);
+    /*background-color: rgba(245, 222, 179, 0.753);*/
+    background-color: rgb(218, 247, 247);
+
 
 
 }
@@ -74,7 +83,9 @@ footer {
     padding-top: 1rem;
     text-align: center;
     font-weight: bold;
-    background-color: rgba(245, 222, 179, 0.753);
+    /*background-color: rgba(245, 222, 179, 0.753);*/
+    background-color: rgb(218, 247, 247);
+
 
 }
 
